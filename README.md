@@ -6,7 +6,7 @@ Pega o valor atualizado do BitCoin, o valor é atualizado a cada 15min, utiliza 
 <h2>Tela</h2>
 
 <p>
-<img src= "preview" width= "200"/>
+<img src= "preview.png" width= "200"/>
 </p>
 
 A new Flutter application.
